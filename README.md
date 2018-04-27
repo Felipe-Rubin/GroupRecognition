@@ -15,7 +15,16 @@
 - Also if not in IDE (e.g. XCode) add -l<library>
 
 # Run:
-./main
+- ./main
+- Space to Pause/Play
+* When Paused
+	* K to change video
+	* Left Arrow go back 1 frame
+	* Right Arrow go forth 1 frame
+	* Up Arrow go forth 10 frames
+	* Down Arrow go back 10 frames
+	* [0-9] go to ([0-9]*10)% of the video
+	* Esc to exit
 
 # Problems:
 * 2 Lines: 
