@@ -22,9 +22,3 @@
 	* 205: glEnable(GL_PROGRAM_POINT_SIZE_EXT);
 	* 206: glPointSize(5);
 - Comment them (On MacOS HighSierra they work).
-
-# Questions
-- felipe.rubin@acad.pucrs.br
-
-
-
