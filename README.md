@@ -22,3 +22,4 @@
 	* 205: glEnable(GL_PROGRAM_POINT_SIZE_EXT);
 	* 206: glPointSize(5);
 - Comment them (On MacOS HighSierra they work).
+- All files are actually Coded in C, only needed thing is to remove the dynamic allocation (malloc/calloc) casting that comes before the function call.
