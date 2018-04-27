@@ -2,6 +2,7 @@
 - Felipe Pfeifer Rubin
 - Ian Aragon Escobar
 
+![alt text](http://https://github.com/Felipe-Rubin/GroupRecognition/edit/master/Images/Br1.png)
 
 # Files:
 - 4 testcases, each txt file relates to one mp4 video
