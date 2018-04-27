@@ -23,7 +23,7 @@
 	* 206: glPointSize(5);
 - Comment them (On MacOS HighSierra they work).
 
-# Problems ?
+# Questions
 - felipe.rubin@acad.pucrs.br
 
 
