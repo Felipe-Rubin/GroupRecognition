@@ -2,9 +2,6 @@
 - Felipe Pfeifer Rubin
 - Ian Aragon Escobar
 
-# Example
-
-<img src="/Images/Br1.png" alt="Example" size=/>
 
 # Files:
 - 4 testcases, each txt file relates to one mp4 video
@@ -35,3 +32,6 @@
 	* 206: glPointSize(5);
 - Comment them (On MacOS HighSierra they work).
 - All files are actually Coded in C, only needed thing is to remove the dynamic allocation (malloc/calloc) casting that comes before the function call.
+
+# Example
+<img src="/Images/Br1.png" alt="Example" size=/>
